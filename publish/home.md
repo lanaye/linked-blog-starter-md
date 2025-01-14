@@ -1,5 +1,5 @@
 ---
-title: "Geography"
+title: "Географія світу"
 ---
 ![[home.jpg|picture]]
 ##### [[baltoro|Балторо]]
