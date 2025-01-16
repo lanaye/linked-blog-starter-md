@@ -1,1 +1,1 @@
-![mornheym-map.jpg|picture]
+![[mornheym-map.jpg|picture]]
