@@ -1,1 +1,0 @@
-![[mornheym-map.jpg|picture]]
