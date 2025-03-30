@@ -1,6 +1,6 @@
 ---
 title: "Безодня"
-excerpt: "/md_assets/attachments/bezodnya.png"
+excerpt: "/md_assets/attachments/bezodnya.jpg"
 backLink: "регіон Рагморн, /geo/ragmorn"
 ---
 
