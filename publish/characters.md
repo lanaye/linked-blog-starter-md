@@ -4,3 +4,4 @@
 Касіель Торн,/character/casiel-torn,/md_assets/attachments/casiel.png,завідувач зброї на арені;
 Салліон 'Сал' Вейн,/character/sal,/md_assets/attachments/sal.png,найкращий студент Академії;
 Ельдран Вернас,/character/eldran-vernas,/md_assets/attachments/eldran.png,директор Головної Академії Магії;
+Вестмар Ардент,/character/westmar-ardent,/md_assets/attachments/westmar.png,покровитель Академії;
