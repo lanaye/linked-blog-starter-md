@@ -1,6 +1,6 @@
 ---
 title: "Король Альдаріс V"
-excerpt: "/md_assets/attachments/aldaris.jpg"
+excerpt: "/md_assets/attachments/aldaris.png"
 ---
 
 **Раса**: Тритон  
