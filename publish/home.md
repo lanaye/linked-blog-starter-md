@@ -9,7 +9,7 @@ title: "Main Page"
 Сессія 6,15.03.25,/session/6;
 Сессія 7,29.03.25,/session/7;
 #####
-очікуйте, невідомо-
+невідомо-очікуйте-
 #####
 Кіаран,,/player/kiaran,,/md_assets/attachments/kiaran.jpeg,,дроу, чаклун;
 Рейдіс,,/player/raydis,,/md_assets/attachments/raydis.jpeg,,дракононароджений, чародій;
