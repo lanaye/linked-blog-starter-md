@@ -14,6 +14,6 @@
 Рейдіс,/player/raydis,/md_assets/attachments/raydis.jpeg,дракононароджений/чародій;
 ДоʼВа,/player/dova,/md_assets/attachments/dova.jpeg,табаксі/шахрай;
 Громор,/player/groomor,/md_assets/attachments/groomor.jpeg,аасімар/монах;
-Чогорі,/player/chogori,/md_assets/attachments/chogori.jpeg,орк/варвар;
+Чогорі,/player/сhogori-o,/md_assets/attachments/chogori.jpeg,орк/варвар;
 Шиннон,/player/shinnon,/md_assets/attachments/shinnon.jpeg,нага/шахрай;
 Рене,/player/rene,/md_assets/attachments/player.svg,дракононароджений/клірик;
