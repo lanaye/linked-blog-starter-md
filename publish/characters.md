@@ -10,6 +10,7 @@
 Вестмар Ардент,/character/westmar-ardent,/md_assets/attachments/westmar.png,покровитель Академії;
 Бартольд Дрейм,/character/bartold-dreym,/md_assets/attachments/bartold.png,професор алхімік та артефактор;
 Тавіан,/character/tavian,/md_assets/attachments/tavian.png,ассистент Бартольда Дрейм;
+Король Альдаріс V,/character/aldaris,/md_assets/attachments/aldaris.jpg,правитель Естельпорт;
 Кіаран,/player/kiaran,/md_assets/attachments/kiaran.jpeg,дроу/чаклун;
 Рейдіс,/player/raydis,/md_assets/attachments/raydis.jpeg,дракононароджений/чародій;
 ДоʼВа,/player/dova,/md_assets/attachments/dova.jpeg,табаксі/шахрай;

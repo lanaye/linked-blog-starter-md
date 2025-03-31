@@ -30,4 +30,5 @@ title: "Main Page"
 Ельдран Вернас,/character/eldran-vernas,/md_assets/attachments/eldran.png,директор Головної Академії Магії;
 Вестмар Ардент,/character/westmar-ardent,/md_assets/attachments/westmar.png,покровитель Академії;
 Бартольд Дрейм,/character/bartold-dreym,/md_assets/attachments/bartold.png,професор алхімік та артефактор;
-Тавіан,/character/tavian,/md_assets/attachments/tavian.png,ассистент Бартольда Дрейм
+Тавіан,/character/tavian,/md_assets/attachments/tavian.png,ассистент Бартольда Дрейм;
+Король Альдаріс V,/character/aldaris,/md_assets/attachments/aldaris.jpg,правитель Естельпорт
