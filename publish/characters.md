@@ -8,6 +8,8 @@
 Салліон 'Сал' Вейн,/character/sal,/md_assets/attachments/sal.png,найкращий студент Академії;
 Ельдран Вернас,/character/eldran-vernas,/md_assets/attachments/eldran.png,директор Головної Академії Магії;
 Вестмар Ардент,/character/westmar-ardent,/md_assets/attachments/westmar.png,покровитель Академії;
+Бартольд Дрейм,/character/bartold-dreym,/md_assets/attachments/bartold.png,професор алхімік та артефактор;
+Тавіан,/character/tavian,/md_assets/attachments/tavian.png,ассистент Бартольда Дрейм;
 Кіаран,/player/kiaran,/md_assets/attachments/kiaran.jpeg,дроу/чаклун;
 Рейдіс,/player/raydis,/md_assets/attachments/raydis.jpeg,дракононароджений/чародій;
 ДоʼВа,/player/dova,/md_assets/attachments/dova.jpeg,табаксі/шахрай;
