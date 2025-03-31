@@ -1,6 +1,6 @@
 ---
 title: Еромунд
-excerpt: "/md_assets/attachments/eromung.jpg"
+excerpt: "/md_assets/attachments/eromund.jpg"
 backLink: "регіон Метахара, /geo/metahara"
 ---
 
