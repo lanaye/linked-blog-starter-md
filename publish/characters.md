@@ -1,5 +1,5 @@
 Льюїс Мейсон,/character/lewis-mason,/md_assets/attachments/lewis.png,капітан гвардії Морнхейму;
-Ллойд Мейсон,/character/loyd-mason,/md_assets/attachments/loyd.png,колишній капітан гвардії Морнхейму;
+Ллойд Мейсон,/character/loyd-mason,/md_assets/attachments/loyd.png,колишній капітан гвардії Морнхейму/увʼязнений;
 Нейра Морн,/character/neyra-morn,/md_assets/attachments/neyra.png,“Безсмертна пітьма”;
 Фредерік,/character/frederick,/md_assets/attachments/frederick.png,самопроголошений екскурсовод Морнхейму;
 Безіменна Орчиця,/character/noname-orc-female,/md_assets/attachments/noname-orc-female.png,колишня гвардійка Морнхейма, вигнана з ганьбою;
